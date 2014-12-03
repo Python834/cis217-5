@@ -1,196 +1,265 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="27a6fcf8-9564-472e-bbc2-1804ec972f28" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp_TemporaryKey.pfx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/Placeholder.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/images/StoreLogo.scale-100.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/images/StoreLogo.scale-240.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/bacon.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/bg.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/call_us.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/chicken.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/cis217-5.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/coke.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/diet_coke.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/diet_dr_pepper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/dr_pepper.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/fine_dining_pizza.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/ginger_ale.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/grape_fanta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/grape_fruit.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/green_peppers.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/ham.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/handToss.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/ko/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/zh/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/lemonade.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/mushrooms.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/olives.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/onions.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/orange_fanta.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pan.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pepperoni.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pineapple.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pizza-heart.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pizza_pepperoni.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/www/img/pizza_place_location.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pizza_place_location.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/pork.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/root_beer.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/sausage.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/sprite.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/stuffCrust.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/thinCrispy.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/tomato.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/img/water.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/.fetch.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.gitattributes" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/CONTRIBUTING.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/src/wp/Camera.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/www/Camera.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/ConfigParser.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.Phone.jsproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.Windows.jsproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.Windows80.jsproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.projitems" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.projitems" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.shproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.shproj" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.vs2012.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/CordovaApp.vs2012.sln" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/src/wp/Device.cs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/node_modules/q/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/LICENSE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/MSBuildTools.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/NOTICE" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/hooks/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/node_modules/q/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/RELEASENOTES.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/VERSION" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/bootstrap-theme.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/bootstrap-theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/bootstrap.css.map" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/bootstrap.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/bootstrap.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/bootstrap.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/build.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/build.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/build.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/cart.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/clean.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/clean.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/clean.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/clean" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/clean" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/config.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/platform_www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/cordova.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/cordova_plugins.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/custom.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/defaults.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/defaults.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/www/device.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/exec.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/form.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/index.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/index.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/de/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/es/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/fr/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/it/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/ja/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/pl/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/doc/ru/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/de/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/es/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/fr/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/it/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/ja/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/ko/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/pl/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/ru/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/doc/zh/index.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery-ui-1.10.4.custom.min.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery-ui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery-ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery-ui.structure.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/css/jquery-ui.theme.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/jquery.layout.min.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/list-devices.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/log.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/log.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/map.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/package.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/package.phone.appxmanifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/package.windows.appxmanifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/package.windows80.appxmanifest" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/pizza_ui.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/tests/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/tests/plugin.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/prepare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/prepare.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/purchase.php" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/node_modules/q/q.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/node_modules/q/queue.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/www/js/respond.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/run.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/run.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/run.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/run" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/spawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/spawn.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/target-list.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.camera/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/org.apache.cordova.device/tests/tests.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/lib/utils.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/version.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/platforms/windows/cordova/version.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/plugins/windows.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    <list default="true" id="27a6fcf8-9564-472e-bbc2-1804ec972f28" name="Default" comment="First Commit">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/deployment.xml" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\hooks\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.Phone.jsproj" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.Windows.jsproj" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.Windows80.jsproj" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.projitems" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.shproj" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.sln" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp.vs2012.sln" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\CordovaApp_TemporaryKey.pfx" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\VERSION" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\config.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\build" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\build.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\clean" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\clean.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\defaults.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\ConfigParser.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\MSBuildTools.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\build.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\clean.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\exec.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\list-devices.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\package.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\prepare.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\run.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\spawn.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\target-list.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\lib\utils.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\log.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\node_modules\q\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\node_modules\q\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\node_modules\q\q.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\node_modules\q\queue.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\run" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\run.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\cordova\version.bat" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\images\StoreLogo.scale-100.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\images\StoreLogo.scale-240.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\package.phone.appxmanifest" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\package.windows.appxmanifest" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\package.windows80.appxmanifest" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\platform_www\cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\cordova_plugins.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\platforms\windows\www\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\RELEASENOTES.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\de\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\es\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\fr\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\it\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\ja\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\ko\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\pl\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\ru\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\doc\zh\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\src\wp\Camera.cs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\tests\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\tests\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.camera\www\Camera.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\.fetch.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\CONTRIBUTING.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\README.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\RELEASENOTES.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\de\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\es\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\fr\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\it\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\ja\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\ko\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\pl\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\ru\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\doc\zh\index.md" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\package.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\src\wp\Device.cs" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\tests\plugin.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\tests\tests.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\org.apache.cordova.device\www\device.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\plugins\windows.json" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\.gitattributes" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\bootstrap-theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\bootstrap-theme.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\bootstrap.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\bootstrap.css.map" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\custom.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\index.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\jquery-ui-1.10.4.custom.min.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\jquery-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\jquery-ui.structure.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\css\jquery-ui.theme.css" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\Placeholder.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\bacon.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\bg.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\call_us.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\chicken.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\coke.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\diet_coke.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\diet_dr_pepper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\dr_pepper.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\fine_dining_pizza.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\ginger_ale.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\grape_fanta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\grape_fruit.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\green_peppers.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\ham.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\handToss.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\lemonade.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\logo.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\mushrooms.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\olives.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\onions.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\orange_fanta.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pan.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pepperoni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pineapple.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pizza-heart.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pizza_pepperoni.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pizza_place_location.gif" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\pork.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\root_beer.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\sausage.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\sprite.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\stuffCrust.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\thinCrispy.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\tomato.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\img\water.jpg" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\index.html" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\bootstrap.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\bootstrap.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\cart.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\cordova.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\form.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\index.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\jquery-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\jquery.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\jquery.layout.min.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\map.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\pizza_ui.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\js\respond.js" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\PATRICKM1100\Dropbox\cis217-5\www\purchase.php" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.documentup.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.documentup.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.jshintrc" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.jshintrc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/.npmignore" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/.npmignore" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/.npmignore" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.npmignore" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/.travis.yml" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.travis.yml" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/AUTHORS" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/AUTHORS" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/CHANGES.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/CHANGES.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/ConfigParser.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/ConfigParser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Phone.jsproj" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Phone.jsproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Windows.jsproj" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Windows.jsproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Windows80.jsproj" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/CordovaApp.Windows80.jsproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/LICENSE.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/LICENSE.txt" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/LICENSE.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/LICENSE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/LICENSE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/LICENSE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/LICENSE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/MSBuildTools.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/MSBuildTools.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/Makefile" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/Makefile" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/NOTICE" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/NOTICE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/README.md" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/WindowsStoreAppUtils.ps1" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/WindowsStoreAppUtils.ps1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/abbrev.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/test/basic.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/test/basic.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cat.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cat.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cd.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/chmod.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/chmod.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/common.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/common.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/benchmark/compare-with-callbacks.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/benchmark/compare-with-callbacks.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/component.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/component.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/constants.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/constants.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/platform_www/cordova.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/platform_www/cordova.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cp.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/cp.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/dirs.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/dirs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/echo.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/echo.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/elementpath.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/elementpath.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/elementtree.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/elementtree.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/error.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/error.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/errors.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/errors.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/exec.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/exec.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/find.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/find.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/scripts/generate-docs.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/scripts/generate-docs.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/global.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/global.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/grep.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/grep.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parsers/index.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parsers/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-devices.bat" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-devices.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-emulator-images.bat" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-emulator-images.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-started-emulators.bat" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/list-started-emulators.bat" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/ln.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/ln.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/ls.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/ls.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/make.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/make.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/mkdir.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/mkdir.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/mv.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/mv.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/examples/my-program.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/examples/my-program.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/bin/nopt.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/bin/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/lib/nopt.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/lib/nopt.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/package.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/package.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/package.json" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parser.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parser.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/pwd.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/pwd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/q.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/q.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/queue.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/queue.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/rm.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/rm.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/scripts/run-tests.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/scripts/run-tests.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parsers/sax.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/parsers/sax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/lib/sax.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/node_modules/sax/lib/sax.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/benchmark/scenarios.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/q/benchmark/scenarios.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/sed.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/sed.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/shell.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/shell.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/bin/shjs" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/bin/shjs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/sprintf.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/sprintf.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/target-list.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/lib/target-list.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/tempdir.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/tempdir.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/test.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/nopt/node_modules/abbrev/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/test.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/test.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/to.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/to.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/toEnd.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/toEnd.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/treebuilder.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/treebuilder.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/utils.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/elementtree/lib/utils.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/uuid.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/node-uuid/uuid.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/which.js" afterPath="$PROJECT_DIR$/cis217-5.git/platforms/windows/cordova/node_modules/shelljs/src/which.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="cis217-5.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -213,22 +282,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="config.xml" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cis217-5.git/config.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="11" selection-start="282" selection-end="282" vertical-scroll-proportion="34.653847" vertical-offset="1020" max-vertical-offset="2941">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/www/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="31" selection-start="717" selection-end="717" vertical-scroll-proportion="0.20169492" vertical-offset="0" max-vertical-offset="5695">
-              <folding>
-                <marker date="1417626508824" expanded="false" signature="14560:14568" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -258,6 +316,8 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="x" value="4" />
+    <option name="y" value="4" />
     <option name="width" value="1280" />
     <option name="height" value="1400" />
   </component>
@@ -304,16 +364,6 @@
               <option name="myItemId" value="cis217-5" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cis217-5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="cis217-5" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="cis217-5.git" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
@@ -327,7 +377,7 @@
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="WebServerToolWindowFactoryState" value="true" />
-    <property name="options.lastSelected" value="settings.github" />
+    <property name="options.lastSelected" value="vcs.Git" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
@@ -377,29 +427,38 @@
       <created>1417626898406</created>
       <updated>1417626898406</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="First Commit">
+      <created>1417627245528</created>
+      <updated>1417627245528</updated>
+    </task>
+    <task id="LOCAL-00003" summary="First Commit">
+      <created>1417628518948</created>
+      <updated>1417628518948</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <frame x="4" y="4" width="1280" height="1400" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32931727" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24959083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -415,6 +474,8 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
@@ -425,19 +486,10 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/cis217-5.git/config.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="11" selection-start="282" selection-end="282" vertical-scroll-proportion="34.653847" vertical-offset="1020" max-vertical-offset="2941">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1258">
           <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/www/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="31" selection-start="717" selection-end="717" vertical-scroll-proportion="0.20169492" vertical-offset="0" max-vertical-offset="5695">
-          <folding>
-            <marker date="1417626508824" expanded="false" signature="14560:14568" placeholder="..." />
-          </folding>
         </state>
       </provider>
     </entry>
