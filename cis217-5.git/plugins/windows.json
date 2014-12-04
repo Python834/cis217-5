@@ -55,6 +55,9 @@
         },
         "org.apache.cordova.camera": {
             "PACKAGE_NAME": "FinalProject"
+        },
+        "org.apache.cordova.vibration": {
+            "PACKAGE_NAME": "FinalProject"
         }
     },
     "dependent_plugins": {}
