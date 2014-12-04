@@ -10,4 +10,5 @@ $( "#sortable" ).sortable();
 
 $('#orderLink').on('click', function(event){
     event.preventDefault();
+    Navigator.vibrate(3000);
 });
